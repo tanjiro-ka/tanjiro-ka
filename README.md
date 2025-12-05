@@ -20,7 +20,7 @@
   </p>
 
   <!-- CONTACT -->
-  <h3>Contact me</h3>
+  <h3>📞 Contact me</h3>
     <div align="left">
       <a href="https://www.linkedin.com/in/jackie-lee-chong-ojeda-365610243" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
@@ -66,7 +66,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=tanjiro-ka&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjiro-ka&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### Contribution graph
+### 🐍 Contribution graph
 <div align="center">
   <img src="https://raw.githubusercontent.com/tanjiro-ka/tanjiro-ka/output/snake.svg" alt="Snake animation" />
 </div>
